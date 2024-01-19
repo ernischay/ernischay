@@ -26,7 +26,7 @@
 <details open>
   <summary><strong>⭐ Repository stats</strong></summary>
   <a href="#-github-stats">
-    <img alt="ernischay's repository stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ernischay&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=ffffff" />
+    <img alt="ernischay's repository stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ernischay&count_private=true&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=ffffff" />
   </a>
   <a href="#-github-stats">
     <img alt="ernischay's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernischay&langs_count=8&layout=compact&hide_border=true&hide_title=true&bg_color=ffffff" />
